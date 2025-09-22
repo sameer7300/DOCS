@@ -671,6 +671,5 @@ This project is licensed under the MIT License - see the [LICENSE](../LICENSE) f
 
 ---
 
-**Built with ❤️ by the NeuroData Team**
+**Built by Sameer Gul NeuroData**
 
-For questions, support, or contributions, please reach out through our [GitHub repository](https://github.com/your-username/neuro-chain) or [Discord community](https://discord.gg/neurodata).
