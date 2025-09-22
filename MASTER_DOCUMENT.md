@@ -3,7 +3,7 @@
 ---
 
 ## Vision & Concept
-A blockchain-based ecosystem for buying, selling, and training on datasets. It uses a native token (**DATACOIN**) for payments and ensures transparency via blockchain logging.
+A blockchain-based ecosystem for buying, selling, and training on datasets. It uses a native token (**NEUROCOIN**) for payments and ensures transparency via blockchain logging.
 
 ---
 
