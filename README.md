@@ -85,7 +85,7 @@ git clone https://github.com/your-username/neuro-chain.git
 cd neuro-chain
 ```
 
-### 2. Backend Setup
+### 2. Backend Setup(private - will be published when the website is fully completed and running)
 
 ```bash
 cd backend
@@ -619,7 +619,7 @@ REACT_APP_DEBUG=true npm start
 npx hardhat node --verbose
 ```
 
-## 📚 Additional Resources
+## 📚 Additional Resources(documentation Incomplete)
 
 ### Documentation
 - [API Documentation](./API_DOCUMENTATION.md)
@@ -627,21 +627,16 @@ npx hardhat node --verbose
 - [Deployment Guide](./DEPLOYMENT_GUIDE.md)
 - [Security Audit](./SECURITY_AUDIT.md)
 
-### Community
-- [GitHub Issues](https://github.com/your-username/neuro-chain/issues)
-- [Discord Community](https://discord.gg/neurodata)
-- [Developer Forum](https://forum.neurodata.io)
+### Community(will be published when the platform is up)
 
-### Support
-- [FAQ](./FAQ.md)
-- [Troubleshooting Guide](./TROUBLESHOOTING.md)
-- [Contact Support](mailto:support@neurodata.io)
+
+
 
 ## 🤝 Contributing
 
-We welcome contributions! Please see our [Contributing Guide](./CONTRIBUTING.md) for details.
+We welcome contributions! will love your idea and contribution, will allow you to contribute once the platform meet certain state .
 
-### Development Setup
+### Development Setup(code is private but will be published once the platform is up and running)
 
 1. Fork the repository
 2. Create a feature branch
